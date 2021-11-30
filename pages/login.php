@@ -7,19 +7,19 @@
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
-  <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+  <link rel="stylesheet" href="public/css/bootstrap.min.css">
   <!-- Font Awesome -->
 
-  <link rel="stylesheet" href="../public/css/font-awesome.min.css">
+  <link rel="stylesheet" href="public/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="../public/css/AdminLTE.min.css">
-  <link rel="stylesheet" href="../public/css/_all-skins.min.css">
+  <link rel="stylesheet" href="public/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="public/css/_all-skins.min.css">
   <!-- Morris chart --><!-- Daterange picker -->
 </head>
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>Find</b>me</a>
+    <a href="#"><b>Find</b>me</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -55,8 +55,8 @@
 <script src="../public/js/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
 <!-- Bootstrap 3.3.7 -->
-<script src="../public/js/bootstrap.min.js"></script>
-<script src="../public/js/bootbox.min.js"></script>
+<script src="public/js/bootstrap.min.js"></script>
+<script src="public/js/bootbox.min.js"></script>
 <script src="scripts/login.js"></script>
 <!-- iCheck -->
 
